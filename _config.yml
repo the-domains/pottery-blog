@@ -1,0 +1,28 @@
+name: Pottery Blog
+favicon: null
+layout_spectrum: 0.5347352263052016
+typography_spectrum: 0.17884839931502938
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7813685345463455
+  lightness: 0.9125144851859659
+  saturation: 0.7000053024385124
+  rhythmicContrast: 0.19602752570062876
+purpose: []
